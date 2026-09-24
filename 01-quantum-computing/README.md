@@ -31,3 +31,29 @@ Course: https://pennylane.ai/codebook/learning-paths
 ## PennyLane Fundamentals (toolkit)
 
 - [PF: PennyLane Fundamentals](./14-pf-pennylane-fundamentals/)
+
+<!-- notion-import -->
+## Notes from Notion
+
+_Copied from the [Quantum Computing](https://app.notion.com/p/2c244de2a65680bab773c5187402da7a) overview page. The chapter summaries on that page are copied into each unit's README._
+
+**Progress checklist**
+
+- [ ] Chapter
+- [ ] Exercises
+- [ ] Cheat sheet
+
+### Single-qubit gate reference
+
+- Z = HXH, Y = S†XS (S† = S adjoint)
+- RX: `qml.RX`, RY: `qml.RY`, RZ: `qml.RZ`
+- X: `qml.X` or `qml.PauliX`; H: `qml.Hadamard` or `qml.H`; Y: `qml.Y` or `qml.PauliY`; Z: `qml.Z` or `qml.PauliZ`
+- S: `qml.S`; T: `qml.T`
+- *[Gate diagrams are images in Notion](https://app.notion.com/p/2c244de2a65680bab773c5187402da7a)*
+
+### Multi-qubit gate reference
+
+- CNOT: `qml.CNOT`; CZ: `qml.CZ`; CRZ: `qml.CRZ`
+- Toffoli: `qml.Toffoli`; CCZ: `qml.CCZ`
+- *[Gate diagrams are images in Notion](https://app.notion.com/p/2c244de2a65680bab773c5187402da7a)*
+

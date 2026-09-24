@@ -11,3 +11,10 @@ Course: https://www.khanacademy.org/humanities/world-history
 - [The Long Nineteenth Century](./07-the-long-nineteenth-century/)
 - [Global Conflict](./08-global-conflict/)
 - [Globalization](./09-globalization/)
+- [Countries](./10-countries/)
+
+<!-- notion-import -->
+## Timeline
+
+Notes from the Notion Timeline database are filed into the lessons below. See [timeline.md](./timeline.md) for the full chronological list.
+

@@ -11,3 +11,9 @@ Course: https://www.khanacademy.org/humanities/us-history
 - [The rise to world power (1890–1945)](./07-the-rise-to-world-power-18901945/)
 - [The Postwar Era (1945–1980)](./08-the-postwar-era-19451980/)
 - [The Modern Era (1980–present)](./09-the-modern-era-1980present/)
+
+<!-- notion-import -->
+## Timeline
+
+Notes from the Notion Timeline database are filed into the lessons below. See [timeline.md](./timeline.md) for the full chronological list.
+

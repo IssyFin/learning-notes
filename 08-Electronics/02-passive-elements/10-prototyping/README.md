@@ -1,0 +1,22 @@
+# Prototyping
+
+_Electronics › Passive Elements_
+
+[Course link](https://www.allaboutcircuits.com/textbook/experiments/chpt-3/)
+
+## Build
+
+
+## Parts list
+
+- 
+
+## Measurements
+
+
+## What went wrong / what I learned
+
+
+## Resources
+
+- 

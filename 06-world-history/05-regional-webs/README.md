@@ -8,6 +8,15 @@ _World History_
 ## Unit notes
 
 
+<!-- notion-import -->
+## Timeline notes from Notion
+
+_Entries from the [Timeline](https://app.notion.com/p/21c44de2a65680d887fdf839d83bff81) database in Notion._
+
+### Khmer Empire
+
+*Empires · Khmer · [Notion](https://app.notion.com/p/22944de2a6568026a32ef13dd4426125)*
+
 ## Lessons
 
 1. [The rise of Islam and the caliphates](./01-the-rise-of-islam-and-the-caliphates/)
