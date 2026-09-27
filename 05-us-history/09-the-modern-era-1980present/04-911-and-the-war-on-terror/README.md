@@ -91,6 +91,49 @@ Counterterrorism and regional alliance support
 - 2003 - Jobs and Growth Tax Relief Reconciliation Act
 - Reduced income tax rates across several tax brackets, reduced taxes on dividends and capital gains, phased out estate tax
 
+## Barack Hussein Obama (2008-2016)
+
+### Overview
+
+- Background in law, served in Senate
+- Defeated Hillary Clinton in the Democratic primaries
+- First African American president in US history
+- Re-elected in 2012, the second Democrat since FDR to win two consecutive elected terms as president
+
+### Economic Policy
+
+- Obama entered office during the middle of the Great Recession
+- Passed large economic stimulus package
+- Affordable Care Act (ACA) - expanded access to health insurance by requiring most Americans to obtain coverage, offered subsidies to low-income people, prevented insurance companies from denying coverage
+
+### Civil Rights and Social Change
+
+- Repealed Don't Ask, Don't Tell, allowing LGBTQ people to serve in the military
+- 2016 - Obergefell v Hodges - same-sex marriage legal nationwide
+- Black Lives Matter movement rose following 2013 acquittal of George Zimmerman in the Trayvon Martin shooting
+- Created DACA in 2012 - protected undocumented immigrants who arrived to the US as children from deportation
+
+### Foreign Policy
+
+- Obama continued many of Bush's policies in the War on Terror - relied on drone strikes abroad
+- 2011 - Navy SEALs killed Osama bin Laden in Pakistan
+- 2011 - Obama withdrew most troops, but instability led to rise of ISIS
+- 2015 - Negotiated the Iran nuclear agreement, aiming to limit Iran's nuclear plan in exchange for sanctions relief
+- 2015 - restored diplomatic relations with Cuba
+
+## Donald Trump (2016-2020, 2024-2028)
+
+### Election
+
+- Highly polarized
+- Increasing influence of social media in politics, misinformation concerns, foreign interference investigations
+
+### First Term
+
+- Withdrew US from Trans-Pacific Partnership (TPP) and Iran nuclear deal
+- Stricter immigration enforcement policies, wall on US-Mexico border
+- 
+
 ## September 11, 2001
 
 ### Overview
@@ -169,7 +212,37 @@ Counterterrorism and regional alliance support
   - 2008 - Bush signs Troubled Assets Relief Program (TARP) to stabilize major banks and financial institutions
   - 2009 - Obama signs $787 billion economic stimulus package of tax cuts and government spending
   - 2010 - Congress passes Dodd-Frank Wall Street Reform and Consumer Protection Act - increased financial regulation; provisions later rolled back
-  - 
+
+## Migration and Immigration in the 1990s and 2000s
+
+### Historical Context
+
+- Previous limits based on race: Chinese Exclusion Act of 1882, Immigration Act of 1924
+- Racial quotas abolished in 1965 via Immigration and Nationality Act
+- US policies, including NAFTA, disrupted local economies in Mexico, especially in agriculture
+- Historical precedence - "we didn't cross the border; the border crossed us" - Mexican American War (1846-1848), territory annexation, etc
+
+### Contribution
+
+- Highly skilled immigrants in fields including technology, medicine, engineering
+- Silicon Valley largely built by immigrants from Latin America and Asia
+
+### DACA - Deferred Action for Childhood Arrivals
+
+- US immigration policy introduced in 2012; provides temporary protection from deportation and work authorization to undocumented immigrants brought to the country as children
+
+## The Climate Crisis
+
+### Kyoto Protocol (1998)
+
+- Over 160 nations joined
+- Basic plan to reduce greenhouse gas emissions
+- US signed under Clinton administration but Republican Congress refused to ratify; withdrew in 2001 under Bush
+
+### Paris Agreement (2015)
+
+- Nearly 200 countries committed to reducing greenhouse gas emissions to limit global warming to below 1.5C
+- 
 
 ## Key ideas
 
