@@ -25,7 +25,43 @@ _World History › The Long Nineteenth Century_
 
 ### Obstacles
 
-- Lack of central government structure and central military/royalty due to reliance on states, 
+- Lack of central government structure and central military/royalty due to reliance on states
+
+## The World Revolution of 1848
+
+### The Flood: World Revolution and World Crisis
+
+- 19th ccentury: Expansion of European empires brought more of world into a single economic system under colonialism
+- Sociologist Immanuel Wallerson: year 1848 marks beginning of a "world revolution"
+- Historian CA Bayly: world crisis of the nineteenth century
+- Anthroplogist David Graeber: 1848 "saw revolutions break out almost simultaneously in fifty countries"
+- 1840-1880: a period of extraordinarily violence, w/ 177 different conflicts
+
+### To the Barricades
+
+- European revolutions in 1848 started with bad harvests
+  - Potato crop fungus in 1845
+  - Poor wheat and rye harvests in 1846
+  - Rising force of nationalism
+- Different needs from different classes
+  - Working classes wanted economic change - reliable jobs, food, and housing
+  - Middle class wanted political change - representation in government
+  - Divisions between working class and middle class weakened revolutions; exploited by elites/monarchs to reassert authority
+ 
+### The Taiping Rebellion and the Great Revolt of 1857
+
+- Taiping Rebellion in China (1851-1864)
+  - Led by Hong Xiuquan against Qing Dynasty
+  - Killed 20 million people
+  - Economic turmoil for China - failing Qing government, wealth drained by opium trade run by British
+  - Combined elements of Christian and Buddhist religion  
+- 1857: Indian Uprising
+  - British East India Company ruled most of India in 1857
+    - Overtaxed the population, disrespected local customs
+    - Employed soldiers - 232,000 Indian soldiers and 45,000 British
+  - Soldiers rose up against the EIC
+  - British control of India tightened, last Mughal emperor exiled, and British government took direct control
+- Both uprisings inspired and led by local religious and philosophical leaders and ideas  
 
 ## Questions
 
