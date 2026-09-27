@@ -1,23 +1,26 @@
-# 9/11 and the War on Terror
+#  Politics of the 2000s
 
 _US History › The Modern Era (1980–present)_
 
 [Course link](https://www.khanacademy.org/humanities/us-history/modern-us)
 
 <!-- notion-import -->
-## Timeline notes from Notion
 
-_Entries from the [Timeline](https://app.notion.com/p/21c44de2a65680d887fdf839d83bff81) database in Notion._
-
-### George W Bush (2001–2009)
-
-*Historical Figures · American · [Notion](https://app.notion.com/p/23e44de2a65680438048f1e9cf1623ea)*
+## George W Bush (2001–2009)
 
 ![George W Bush](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/500px-George-W-Bush.jpeg)
 
 US President (Republican)
 
-As governmor, sponsored legislation for tort reform, increased education funding, set higher standards for schools, reformed the criminal justice system, helped make Texas the leading producer of wind-generated electricity in the US)
+### Election of George W Bush
+
+- Hotly contested election, very close
+- Al Gore won the popular vote but neither candidate had necessary 270 electoral votes; outcome depended on Florida
+- Recounts, court challenges, and ultimately US Supreme Court made 5-4 decision to halt the recount and award electoral votes to Bush
+
+### Bush's Policies
+
+As governor, sponsored legislation for tort reform, increased education funding, set higher standards for schools, reformed the criminal justice system, helped make Texas the leading producer of wind-generated electricity in the US)
 
 Signed a major tax-cut program and the No Child Left Behind Act. Pushed for the Partial-Birth Abortion Ban Act and faith-bawsed initiatives.
 
@@ -73,21 +76,103 @@ US supporting Saudi-led coalition vs Houthi rebels
 
 Counterterrorism and regional alliance support
 
+### No Child Left Behind (2002)
 
-## Summary
+- Bipartisan law requiring states to develop standardized tests
+- Schools that repeatedly failed to meet standards faced penalties
 
+### Medicare Part D (2003)
+
+- Provided prescription drug coverage for senior citizens
+- One of the largest expansions of Medicare since program creation in 1965
+
+### Larger Tax Cuts
+- 2001 - Economic Growth and Tax Relief Reconciliation Act
+- 2003 - Jobs and Growth Tax Relief Reconciliation Act
+- Reduced income tax rates across several tax brackets, reduced taxes on dividends and capital gains, phased out estate tax
+
+## September 11, 2001
+
+### Overview
+
+- September 11, 2001: Terrorists from extremist group al-Qaeda hijacked four airplanes, two of which hit the World Trade Center towers in New York City, one of which hit the Pentagon in Washington, D.C., and one of which crashed in PA after passengers fought against the hijackers
+- Bush responded with the Global War on Terror
+- First action - Afghanistan, where Taliban government had allowed al-Qaeda to operate
+- By late 2001 - US and allies ousted the Taliban
+- 2000s - US and its allies tried to stabilize Afghanistan and build democratic institutions, conflict continued
+- 2021 - US withdraws from Afghanistan and Taliban regains control over country
+
+### Leadup
+
+- US involvement in Afghanistan during the Cold War:
+  - 1979: Soviet Union Invades Afghanistan; US supports Afghan fighters (mujahideen), including Osama bin Laden (wealthy Saudi national who helped organize Arab fighters)
+- Following Soviet withdrawal (1989), bin Laden turned against US, criticizing its support for Israel, objecting to presence of American troops in Saudi Arabia during 1991 Gulf War
+- Bin Laden founds al-Qaeda - militant Islamic network carrying out terrorist attacks
+
+### War in Afghanistan
+
+- Target was Afghanistan since Taliban government provided safe haven to al-Qaeda
+- Osama bin Laden escaped when US and allies removed Taliban from power, and Taliban regrouped
+- War in Afghanistan was longest war in American history
+- 2011 - US special forces kill Osama bin Laden in Pakistan
+- 2021 - US withdraws troops and Taliban regains control of Afghanistan
+
+### Iraq War
+
+- 2003 - US invades Iraq over concerns that Iraqi leader Saddam Hussein possessed WMDs
+- No WMDs found, and Hussein removed from government
+- Iraq then experiences years of instability and violence between Sunni and Shia groups
+- 2005 - violence escalates into civil war
+- Extremist group, ISIS, emerges from instability in Iraq and Syria - US gets involved again in the 2010s
+- 
+
+## Other Foreign Events
+
+
+### The Iraq War
+
+- 2003 - US (under Bush administration) invades Iraq under claim that Iraqi leader, Saddam Hussein, possessed WMDs and posed a threat
+- Investigation found no WMDs
+- Hussein's government was quickly toppled but resulted in long, costly war
+- Violence from rebels and fighting between religious and political groups
+- Criticisms that intelligence used to justify the invasion was faulty, war destabilized the region
+- Supporters say that removing Hussein ended a brutal dictatorship
+- US troops remained until 2011, returned later to counter the extremist group ISIS
+
+### Homeland Security and Civil Liberties
+
+- USA Patriot Act (2001) - expanded federal government powers to monitor and detain terrorists, collect phone/email/financial records
+- Department of Homeland Security (2002) - Coordinate domestic security efforts
+- Debates over detention of terrorists w/o trial at Guantanamo Bay, torture of prisoners via "enhanced interrogation techniques" 
+
+
+## Economic Policy and Rising Debt in the early 2000s
+
+### Bush Policies
+
+- Large tax cuts, expanded federal programs (Medicare and prescription drug coverage), increased military spending
+- Federal spending increased, tax revenues declined; budget deficit grew and national debt nearly doubled during Bush's presidency
+- Income inequality rose and middle-class wages stagnated as a result
+
+### The Housing Bubble
+
+- Homeownership rose rapidly in early 2000s - period where home prices rose quickly to unsustainable levels since prices were expected to continue rising
+- Banks loosened lending standards and loaned to borrowers with weak credit
+- Risky mortgages bundled with safe investments, imitating a safe investment
+- Led to the Great Recession
+
+### The Great Recession (2007-2009)
+
+- Triggered by a collapse in housing market - risky mortgage lending and financial speculation -> plunging house prices, loan defaults
+- High unemployment, foreclosures, drop in economic growth
+- Massive losses of banks and financial institutions, too big to fail and federal government intervened
+  - 2008 - Bush signs Troubled Assets Relief Program (TARP) to stabilize major banks and financial institutions
+  - 2009 - Obama signs $787 billion economic stimulus package of tax cuts and government spending
+  - 2010 - Congress passes Dodd-Frank Wall Street Reform and Consumer Protection Act - increased financial regulation; provisions later rolled back
+  - 
 
 ## Key ideas
 
-- 
-
-## Worked examples / code
-
-
-## Questions
-
-- 
-
 ## Resources
 
-- 
+- [Khan Unit on the New Millennium](https://www.khanacademy.org/humanities/us-history/modern-us/us-after-2000/a/politics-in-the-united-states-during-the-2000s)
