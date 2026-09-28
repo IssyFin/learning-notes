@@ -307,6 +307,22 @@ def optimize(cost_function, init_params, *steps):
 
 </details>
 
+<details>
+<summary>Dynamic Circuits</summary>
+    - qp.measure(x,reset=True) to reset qubit after measurement
+    - qp.measure(x,postselect=True) to maintain qubit after measurement
+    - qp.cond(measure1==0,qp.Hadamard)(0) to split the bit given a particular measurement
+    
+</details>
+<details></details>
+<summary>Drawing and Snapshots</summary>
+    - qp.draw(circuit) to produce a text-style circuit drawing
+    - qp.draw_mpl(circuit) to produce a matplotlib style drawing of the circuit
+    - qp.Snapshot(”state name”) to produce a snapshot for later debugging
+    - qp.breakpoint() to add a breakpoint for debugging
+    - qp.debug_tape() to visuallize a circuit at a breakpoint
+
+</details>
 ## Lessons
 
 1. [Circuits and QNodes](./01-circuits-and-qnodes/)
