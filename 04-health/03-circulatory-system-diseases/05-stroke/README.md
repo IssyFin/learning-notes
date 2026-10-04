@@ -50,7 +50,7 @@ _Health › Circulatory system diseases_
   - Cerebrum (right) - Problems w/ vision, depth perception, short-term memory loss and judgement, weakness/paralysis on left side
 - Watershed area in the center of each hemisphere, where brain is prone to being damaged due to lack of blood flow (hypo-perfusion) - since blood gets to the brain from the inside out and the outside in, the area in between them is at risk of less flow.
 
-![image}(watershed.jpg)
+![image](watershed.jpg)
 
 ## Signs of a stroke
 
