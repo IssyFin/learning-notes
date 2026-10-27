@@ -62,6 +62,8 @@ Malfunction tends to manifest after about 3 minutes, due to lack of oxygen and g
 - Speech may sound slurred and jumbled
 - Difficulty seeing through one or both eyes
 
+FAST: Face (drooping?) Arms (and legs; numb or weak) Speech (Speaking or Understanding) Time (Dr ASAP)
+
 ## Risk Factors
 
 - Uncontrollable
@@ -85,8 +87,10 @@ Malfunction tends to manifest after about 3 minutes, due to lack of oxygen and g
 - Ischemic Stroke:
   - Confirmed via a CT scan
   - Treated first with clot-busting drugs (tissue plasminogen activator) to restore blood flow and reduce damage
+  - Clots can be removed mechanically via catheterization
 - Hemorrhagic Stroke:
   - Doctor will find source of bleed to control it; may require immediate surgery to reduce pressure and damage
+  - Bleeding can be contained by filling the area up with a catheter or by "tying off" the burst site
 - Tests often include:
   - Physical examination
   - CT (computerized tomography) scan to identify the type of stroke
